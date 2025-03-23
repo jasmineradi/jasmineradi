@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasmineradi
-- 👀 I’m interested in learning the basics!
+- 👀 I’m interested in web development!
 - 🌱 I’m currently learning Web Development at NDSCS!
 - 📫 How to reach me @Linkedin/jasmine_radi
 
