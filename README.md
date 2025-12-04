@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmineradi
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning Web Development at NDSCS
+- 🌱 I’m currently skilled in html, css, javascript, sql, java, php!
 - 📜 I'm set to graduate with my a.a.s degree in Web Design & Development Spring 2026!
 - 📫 How to reach me @Linkedin/jasmine_radi
 
