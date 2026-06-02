@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasmineradi
 - 👀 I’m interested in web development!
 - 🌱 I’m currently skilled in html, css, javascript, sql, java, php!
-- 📜 NDSCS Spring 2026 ~ a.a.s information & communications technology | Web Design & Development
+- 📜 NDSCS Spring 2026 ~ a.a.s Computer Science | Web Design & Development
 - 📫 How to reach me @Linkedin/jasmine_radi
 
 <!---
