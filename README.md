@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasmineradi
-- 👀 I’m interested in web development!
+- 👀 I’m a full-stack web developer!
 - 🌱 I’m currently skilled in html, css, javascript, sql, java, php!
 - 📜 I graduated from NDSCS Spring 2026 ~ a.a.s Computer Science | Web Design & Development
 - 📫 How to reach me @Linkedin/jasmine_radi
